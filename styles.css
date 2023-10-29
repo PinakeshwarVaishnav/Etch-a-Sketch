@@ -17,3 +17,8 @@
 .grid-item:hover {
     background-color: lightblue;
 }
+
+.button-container {
+    text-align: center;
+    margin: 20px;
+}
